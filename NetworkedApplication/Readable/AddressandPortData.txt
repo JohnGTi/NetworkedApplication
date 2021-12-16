@@ -1,0 +1,8 @@
+The server network IP address and port, respectively.
+10.154.0.6 5555
+
+Similarly, the client network IP address and port.
+10.154.0.6 56821
+
+The program may be run with no client-side prediction and interpolation, to demonstrate (On/Off).
+On
