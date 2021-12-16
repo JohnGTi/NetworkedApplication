@@ -11,6 +11,8 @@ Gabriel Tierney - 1803088
 
 ***
 
+Note, the below instructions are for the zip project source, submitted without the required library. Not this repository.
+
 Simple and Fast Multimedia Library (2018) SFML Team (2.5.1) [cross-platform software development library].
 Available at: https://www.sfml-dev.org/download/sfml/2.5.1/ (Accessed: 05 November 2021).
 
